@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Diaconu Paul <br>I'm an Automation Student from Tehnical University of Cluj-Napoca</h3>
+<h3 align="left">My name is Diaconu Paul <br>I'm an Automation Student from Technical University of Cluj-Napoca</h3>
 
 ###
 
