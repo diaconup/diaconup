@@ -5,11 +5,12 @@
 <h3 align="left">My name is Diaconu Paul <br>I'm an Cyber-Physical System student, ex Automation and Applied Informatics from Technical University of Cluj-Napoca</h3>
 <h3 align="left">Currently, working as Junior React Native Developer at 3SS</h3>
 
-<h3 align="left">My Curriculum Vitae</h3>
-
-<a href="https://raw.githubusercontent.com/diaconup/cv/main/CV_Diaconu_Paul_Costin.pdf" target="_blank">
-  Open my CV
-</a>
+<p>
+  <a href="https://raw.githubusercontent.com/diaconup/cv/main/CV_Diaconu_Paul_Costin.pdf" target="_blank"
+     style="font-size:20px; font-weight:bold; padding:10px 16px; border:1px solid #0366d6; border-radius:6px; text-decoration:none;">
+    📄 View My CV
+  </a>
+</p>
 
 ###
 
