@@ -7,8 +7,8 @@
 
 <p>
   <a href="https://raw.githubusercontent.com/diaconup/cv/main/CV_Diaconu_Paul_Costin.pdf" target="_blank"
-     style="font-size:20px; font-weight:bold; padding:10px 16px; border:1px solid #0366d6; border-radius:6px; text-decoration:none;">
-    📄 View My CV
+     style="font-size:40px; font-weight:bold; padding:10px 16px; border:1px solid #0366d6; border-radius:6px; text-decoration:none;">
+    View My CV
   </a>
 </p>
 
