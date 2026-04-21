@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Diaconu Paul <br>I'm an Cyber-Physical System student, ex Automation and Applied Informatics from Technical University of Cluj-Napoca</h3>
+<h3 align="left">My name is Diaconu Paul <br>I'm a Cyber-Physical System student, ex Automation and Applied Informatics from Technical University of Cluj-Napoca</h3>
 <h3 align="left">Currently, working as Junior React Native Developer at 3SS</h3>
 
 <p>
